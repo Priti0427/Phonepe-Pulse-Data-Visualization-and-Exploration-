@@ -21,7 +21,7 @@ Built this  web app for Phonepe Pulse Data Visualisation using Streamlit and Plo
 
 **Libraries:** Pandas, Plotly, 
 
-** Database:** SQLite3
+**Database:** SQLite3
 
 **GUI Framework:** Streamlit
 
